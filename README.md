@@ -24,6 +24,10 @@ Introducir a los estudiantes en el pensamiento algorítmico y la resolución de 
 > [!NOTE]
 > Se añadirá contenido adicional dependiendo del avance de los alumnos y el ritmo del curso.
 
+## 🐍 Ejercicios del Curso
+
+Puedes encontrar los ejercicios prácticos en el directorio [`/ejercicios`](./ejercicios), donde se incluyen desafíos por tópico y problemas de refuerzo para practicar desde casa.
+
 ## 👤 Autor y Facilitador
 
 **Sebastián Richiardi** ([@KroderDev](https://github.com/KroderDev))  
