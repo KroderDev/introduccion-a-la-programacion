@@ -1,6 +1,12 @@
 # Curso: Introducción a la Programación
 Bienvenido/a al repositorio oficial del curso **Introducción a la Programación**, dictado en el **Liceo Salesiano Manuel Arriarán Barros**. Este curso está orientado a estudiantes que desean dar sus primeros pasos en el mundo de la programación, usando el lenguaje **Python** como medio principal de aprendizaje.
 
+## ⚙️ Instalación del Entorno
+
+¿Primera vez programando? No te preocupes, hemos preparado una guía paso a paso para instalar Python y Visual Studio Code en tu computador:
+
+📲 [Guía de instalación del entorno](./INSTALL.md)
+
 ## ⚖️ Objetivo General del Curso
 Introducir a los estudiantes en el pensamiento algorítmico y la resolución de problemas usando programación estructurada y herramientas actuales.
 
