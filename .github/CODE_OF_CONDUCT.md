@@ -1,10 +1,10 @@
-# 📜 Código de Conducta del Curso
+# 🤝 Código de Conducta del Curso
 
 Este curso busca ser un espacio **seguro, respetuoso y colaborativo** para aprender programación. Para lograrlo, te pedimos seguir estas sencillas reglas:
 
 ---
 
-## 🤝 Principios Básicos
+## 👥 Principios Básicos
 
 * Sé amable y respetuoso/a con todos.
 * Escucha las opiniones de los demás y responde con respeto.
