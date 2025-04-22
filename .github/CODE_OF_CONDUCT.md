@@ -2,6 +2,9 @@
 
 Este curso busca ser un espacio **seguro, respetuoso y colaborativo** para aprender programación. Para lograrlo, te pedimos seguir estas sencillas reglas:
 
+>[!IMPORTANT]
+>*Este código de conducta aplica a todos los espacios del curso: clases presenciales, Discord, y contribuciones a este repositorio en GitHub*
+
 ---
 
 ## 👥 Principios Básicos
