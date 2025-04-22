@@ -46,7 +46,7 @@ Puedes encontrar los ejercicios prácticos en el directorio [`/ejercicios`](./ej
 
 Todo el contenido de este repositorio está bajo la licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). ¿Qué significa esto? Que puedes usar, compartir y adaptar el material, incluso para fines comerciales.
 
-Solo te pedimos algo muy simple: **da el crédito correspondiente** y menciona si hiciste algún cambio. No es necesario complicarse, solo basta con reconocer el esfuerzo 😄
+Solo te pedimos algo muy simple: **da el crédito correspondiente** y menciona si hiciste algún cambio. No es necesario complicarse, solo basta con reconocer el esfuerzo.
 
 Gracias por respetar y valorar el trabajo docente, y por contribuir a la difusión libre del conocimiento.
 
