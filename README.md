@@ -43,5 +43,5 @@ Solo te pedimos algo muy simple: **da el crédito correspondiente** a **Sebasti�
 
 Gracias por respetar y valorar el trabajo docente, y por contribuir a la difusión libre del conocimiento.
 
-> ![NOTE]
+> [!NOTE]
 > Si encuentras algún error en el contenido o crees que algo se puede mejorar, ¡no dudes en sugerir una corrección o abrir un `issue`! Todas las contribuciones y sugerencias son bienvenidas
