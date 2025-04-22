@@ -24,16 +24,15 @@ Introducir a los estudiantes en el pensamiento algorítmico y la resolución de 
 > [!NOTE]
 > Se añadirá contenido adicional dependiendo del avance de los alumnos y el ritmo del curso.
 
-## 🐍 Ejercicios del Curso
-
-Puedes encontrar los ejercicios prácticos en el directorio [`/ejercicios`](./ejercicios), donde se incluyen desafíos por tópico y problemas de refuerzo para practicar desde casa.
-
 ## 👤 Autor y Facilitador
 
 **Sebastián Richiardi** ([@KroderDev](https://github.com/KroderDev))  
 Profesor del taller ACLES de Programación  
 Liceo Salesiano Manuel Arriarán Barros  
-Desarrollador de software, estudiante y educador apasionado por la tecnología y la enseñanza de la programación a nuevos talentos.
+
+## 🐍 Ejercicios del Curso
+
+Puedes encontrar los ejercicios prácticos en el directorio [`/ejercicios`](./ejercicios), donde se incluyen desafíos por tópico y problemas de refuerzo para practicar desde casa.
 
 ## 📖 Recursos
 * [Documentación de Python (oficial)](https://docs.python.org/es/3/)
@@ -43,7 +42,7 @@ Desarrollador de software, estudiante y educador apasionado por la tecnología y
 
 Todo el contenido de este repositorio está bajo la licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). ¿Qué significa esto? Que puedes usar, compartir y adaptar el material, incluso para fines comerciales.
 
-Solo te pedimos algo muy simple: **da el crédito correspondiente** a **Sebastián Richiardi** ([@KroderDev](https://github.com/KroderDev)) y menciona si hiciste algún cambio. No es necesario complicarse, solo basta con reconocer el esfuerzo 😄
+Solo te pedimos algo muy simple: **da el crédito correspondiente** y menciona si hiciste algún cambio. No es necesario complicarse, solo basta con reconocer el esfuerzo 😄
 
 Gracias por respetar y valorar el trabajo docente, y por contribuir a la difusión libre del conocimiento.
 
