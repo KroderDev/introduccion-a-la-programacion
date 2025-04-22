@@ -95,3 +95,13 @@ El número ingresado no tiene raíz cuadrada real.
 ```
 >[!TIP]
 >*Recuerda que los números no tienen raíz cuadrada real cuando son negativos.*
+
+### [multiplo_de_tres.py](./multiplo_de_tres.py)
+Verifica si un número ingresado es múltiplo de 3.
+Salida esperada:
+```python
+Ingrese un número: 9
+Es múltiplo de 3
+```
+>[!TIP]
+>*Revisa si número % 3 == 0*
