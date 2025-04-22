@@ -11,7 +11,7 @@ Este directorio contiene ejercicios prácticos organizados por tópico. Cada car
 - **Entrada Salida**: [Ver ejercicios](./entrada_salida/README.md)
 - **Geometria**: [Ver ejercicios](./geometria/README.md)
 - **Juegos Y Logica**: [Ver ejercicios](./juegos_y_logica/README.md)
-- **Listas Y Bucles**: [Ver ejercicios](./listas_y_bucles/README.md)
+- **Bucles Y Listas**: [Ver ejercicios](./bucles_y_listas/README.md)
 
 ---
 
