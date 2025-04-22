@@ -27,8 +27,6 @@ Introducir a los estudiantes en el pensamiento algorítmico y la resolución de 
 ## 👤 Autor y Facilitador
 
 **Sebastián Richiardi** ([@KroderDev](https://github.com/KroderDev))  
-Profesor del taller ACLES de Programación  
-Liceo Salesiano Manuel Arriarán Barros  
 
 ## 🐍 Ejercicios del Curso
 
